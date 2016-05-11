@@ -53,3 +53,8 @@ html,body {
 .disc > img {
 	width: 100%;
 }
+
+.myfavorite {
+	height: 720px;
+	background-color: white;
+}
